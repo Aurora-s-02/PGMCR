@@ -8,6 +8,7 @@ python 3.8
 
 # Prepare dataset
 Create a folder: datasets/
+Data is [here](https://drive.google.com/drive/folders/16dnRqtWReVcSsjOyLFC4impwn58_horG?usp=drive_link)
 
 # Training
 To save the models create a folder and then run the training script below for the final model. saved/final_model<br>
